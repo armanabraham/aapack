@@ -1,0 +1,14 @@
+Package: aapack
+Type: Package
+Title: My library of commonly used functions
+Version: 0.1
+Date: 2015-03-09
+Author: Arman Abrahamyan
+Maintainer: Arman Abrahamyan <a.abrahamyan@gmail.com>
+Description: Many functions that I need regularly for data analysis
+License: Home License. If you know where is your home, you are free to use it.
+Imports:
+    ggplot2,
+    ggthemes
+LazyData: TRUE
+RoxygenNote: 5.0.0
