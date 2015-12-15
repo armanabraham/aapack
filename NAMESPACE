@@ -2,6 +2,7 @@
 
 export(median_cl_boot)
 export(normDataWithin)
+export(reload)
 export(summarySE)
 export(summarySEwithin)
 export(theme_publish1)
