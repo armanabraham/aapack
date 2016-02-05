@@ -18,3 +18,6 @@ reload <- function(libName) {
   detach(detachExpression, unload=TRUE, character.only = TRUE)
   library(libNameAsChar, character.only=TRUE)
 }
+
+
+#' TODO: make a function called unload which will be a quick handle for detach('package:packageName', unload=TRUE)
