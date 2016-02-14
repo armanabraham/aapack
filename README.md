@@ -3,7 +3,7 @@
 
 ## Installation
 
-Ensure you have `devtools` package installed. Then, run the followin in R: 
+Ensure you have `devtools` package installed. Then, run the following in R: 
 ```R
 install_github('armanabram/aapack')
 ```
