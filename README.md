@@ -5,6 +5,6 @@
 
 Ensure you have `devtools` package installed. Then, run the following in R: 
 ```R
-install_github('armanabram/aapack')
+install_github('armanabraham/aapack')
 ```
 
