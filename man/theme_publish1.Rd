@@ -4,7 +4,7 @@
 \alias{theme_publish1}
 \title{ggplot theme for generating publication quality graphs}
 \usage{
-theme_publish1(base_size = 12, base_family = "Gill Sans")
+theme_publish1(base_size = 1, base_family = "Gill Sans")
 }
 \description{
 It is clean, uses italics for axes text and font size

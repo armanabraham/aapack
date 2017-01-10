@@ -14,8 +14,8 @@ Useful for debugging packages to quickly re-load
 a library after a change
 }
 \details{
-It can also be efficient to have this in .RProfile
-to load it every time R starts
+It is convenient to define this function in or load aapack 
+from .RProfile to load every time R starts
 }
 \examples{
 reload(chb)
